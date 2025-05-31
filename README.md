@@ -5,8 +5,8 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e apaixonado por tecno
 - **React**
 - **TypeScript**
 - **CSS-in-JS** com **styled-components**
-
-Veja meu repositorio no [GitHub]([https://www.linkedin.com/in/leonardo-luz-ads/](https://github.com/leonardoOluz?tab=repositories))
+  
+- [Veja meu repositorio no GitHub](https://github.com/leonardoOluz?tab=repositories)
 
 Atualmente, trabalho na área de engenharia civil como eletricista, mas estou em processo de migração de carreira para a tecnologia, buscando novos desafios e aprendizados nesse universo que tanto me inspira.
 
